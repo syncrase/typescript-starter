@@ -5,5 +5,4 @@
  - run tests: `npm run test`
 
 NB:
- - chai doc: http://www.chaijs.com/api/bdd/
  - microsoft interesting starter project: https://github.com/Microsoft/TypeScript-Node-Starter
